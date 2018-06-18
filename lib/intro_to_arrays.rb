@@ -4,5 +4,5 @@ def instantiate_new_array
 end
 
 def aray_with_two_elements
-  @my_two_array = Array.new 
+  @my_two_array = ('1'..'2').to_a
   
