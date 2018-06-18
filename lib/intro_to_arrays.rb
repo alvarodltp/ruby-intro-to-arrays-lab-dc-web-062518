@@ -5,4 +5,6 @@ end
 
 def aray_with_two_elements
   @my_two_array = ('1'..'2').to_a
+  return @my_two_array
+end
   
